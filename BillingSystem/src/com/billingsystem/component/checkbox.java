@@ -3,6 +3,7 @@ package com.billingsystem.component;
 import javax.swing.JPanel;
 import javax.swing.JCheckBox;
 
+/* checkbox class */
 public class checkbox extends JCheckBox
 {
 	JCheckBox jc;
